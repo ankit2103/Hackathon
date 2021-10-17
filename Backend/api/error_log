@@ -1,0 +1,1 @@
+[17-Oct-2021 04:06:16 Asia/Kolkata] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/hotelshridadaji/public_html/OLX/api/index.php on line 482
